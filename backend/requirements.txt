@@ -1,0 +1,13 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.0.3
+Flask-Cors==3.0.10
+Werkzeug==3.0.0
+python-dotenv==1.0.0
+flask-login==0.6.3
+pymysql==1.1.1
+cryptography==44.0.2
+flask-migrate==4.1.0
+pymongo==4.11.3
+flask-pymongo==3.0.1
+dnspython==2.7.0
+gunicorn==23.0.0
