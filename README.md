@@ -17,7 +17,7 @@ A web application for managing student applications for higher education. Admins
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shreyaupretyy/gradpath-2.git
+   git clone https://github.com/subashkandel10/GradPath.git
    ```
 2. Navigate to the frontend directory:
    ```bash
